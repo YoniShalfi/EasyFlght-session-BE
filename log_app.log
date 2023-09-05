@@ -1,0 +1,75 @@
+2023-08-23 21:21:56,538 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-08-23 21:21:56,538 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-08-23 21:21:58,144 - werkzeug - INFO - 127.0.0.1 - - [23/Aug/2023 21:21:58] "GET / HTTP/1.1" 200 -
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-08-23 21:22:09,094 - logger_config - INFO - Fetched all flights
+C:\Users\ayoni\Desktop\flight project\facades.py:50 - get_all_flights()
+
+
+2023-08-23 21:22:09,394 - werkzeug - INFO - 127.0.0.1 - - [23/Aug/2023 21:22:09] "GET /flights HTTP/1.1" 200 -
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-08-23 21:22:20,581 - logger_config - INFO - Fetched flight with id 2
+C:\Users\ayoni\Desktop\flight project\facades.py:62 - get_flight_by_id()
+
+
+2023-08-23 21:22:20,881 - werkzeug - INFO - 127.0.0.1 - - [23/Aug/2023 21:22:20] "GET /flights/2 HTTP/1.1" 200 -
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-09-05 11:52:27,724 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-09-05 11:52:27,725 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-09-05 11:52:29,756 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2023 11:52:29] "GET / HTTP/1.1" 200 -
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-09-05 11:52:39,881 - logger_config - INFO - Fetched all flights
+C:\Users\ayoni\Desktop\session bacend\Easy-Flight\facades.py:50 - get_all_flights()
+
+
+2023-09-05 11:52:41,479 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2023 11:52:41] "GET /flights HTTP/1.1" 200 -
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-09-05 11:53:05,093 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-09-05 11:53:05,093 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-09-05 11:53:47,629 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2023 11:53:47] "POST /login HTTP/1.1" 200 -
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-09-05 11:53:52,936 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2023 11:53:52] "GET /login HTTP/1.1" 200 -
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-09-05 11:53:59,006 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2023 11:53:59] "POST /logout HTTP/1.1" 200 -
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
+2023-09-05 11:54:00,002 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2023 11:54:00] "POST /logout HTTP/1.1" 200 -
+C:\Users\ayoni\Desktop\flight project\.venv\lib\site-packages\werkzeug\_internal.py:187 - _log()
+
+
